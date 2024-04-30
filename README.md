@@ -70,4 +70,4 @@ An accomplished developer fluent in an array of modern frameworks and languages,
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=nicholaslck&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
