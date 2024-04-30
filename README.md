@@ -69,4 +69,5 @@ An accomplished developer fluent in an array of modern frameworks and languages,
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nicholaslck&icon=0&color=12)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=nicholaslck&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
