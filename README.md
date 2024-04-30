@@ -70,4 +70,4 @@ An accomplished developer fluent in an array of modern frameworks and languages,
 
 ---
 
-[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/nicholaslck/nicholaslck)](https://badges.pufler.dev)
