@@ -70,4 +70,8 @@ An accomplished developer fluent in an array of modern frameworks and languages,
 
 ---
 
+<a href="https://www.buymeacoffee.com/yourusername">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="48">
+</a>
+
 [![Visits Badge](https://badges.pufler.dev/visits/nicholaslck/nicholaslck)](https://badges.pufler.dev)
