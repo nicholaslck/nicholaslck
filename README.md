@@ -1,18 +1,24 @@
 # Hi, I'm Nicholas 👋
 
-I build AI-powered interfaces — bridging the model and the user.
+Frontend engineer who's shipped at 800k+ peak load and published in IEEE TVCG.  
+I have strong opinions about why React makes performance the developer's problem.
 
-**Field of interests**: AI Applications, Frontend Systems, Computer Graphics, Developer Tools
+**Interests**: Frontend Systems · AI Applications · Computer Graphics · Developer Tools
+
+---
+
+### Currently 🔍
+
+Looking for Frontend × AI roles. Open to remote globally.
 
 ---
 
 ### About Me 🧑‍💻
 
-- 🎓 MPhil in CS @ CUHK — image processing & deep learning
-- 📄 Published researcher: IEEE TVCG 2023
-- 🏢 ex-Decathlon Software Engineer
-- ❤️ Svelte lover — strong opinions on component design and reactivity models
-- 🌏 Based in Hong Kong, open to remote
+- 🚀 Built the frontend for a live streaming platform handling 800k+ concurrent viewers
+- 🎓 MPhil in CS @ CUHK — deep learning for image processing; published IEEE TVCG 2023
+- ❤️ Svelte advocate — React's reactive lifecycle externalises performance responsibility to the developer; Svelte's compiler approach removes that failure mode entirely
+- 🌏 Based in Hong Kong, open to remote globally
 
 ---
 
@@ -61,12 +67,6 @@ I build AI-powered interfaces — bridging the model and the user.
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-
----
-
-### Currently 🔍
-
-Looking for Frontend × AI roles. Open to remote globally.
 
 ---
 
